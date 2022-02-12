@@ -1,10 +1,10 @@
-package com.example.springframework;
+package com.amante.springframe;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringFrameworkApplicationTests {
+class SpringFrameApplicationTests {
 
     @Test
     void contextLoads() {
