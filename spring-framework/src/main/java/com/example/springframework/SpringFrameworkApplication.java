@@ -1,13 +1,13 @@
-package com.amante.springframe;
+package com.example.springframework;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringFrameApplication {
+public class SpringFrameworkApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringFrameApplication.class, args);
+        SpringApplication.run(SpringFrameworkApplication.class, args);
     }
 
 }
