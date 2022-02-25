@@ -1,6 +1,6 @@
-package com.wakshum.proxy;
+package com.cydeo.proxy;
 
-import com.wakshum.model.Comment;
+import com.cydeo.model.Comment;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
